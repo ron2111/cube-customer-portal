@@ -1,0 +1,18 @@
+.customer-details h2 {
+  margin-top: 0;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.customer-details h4 {
+  margin: 10px 0;
+  font-size: 18px;
+  color: #888;
+}
+
+.customer-details p {
+  margin: 10px 0;
+  font-size: 16px;
+  color: #666;
+  text-align: center;
+}

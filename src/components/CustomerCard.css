@@ -1,0 +1,29 @@
+.customer-card {
+  padding: 15px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.customer-card:hover {
+  background-color: #f0f0f0;
+}
+
+.customer-card.selected {
+  background-color: #d0d0d0;
+  border-color: #aaa;
+}
+
+.customer-card h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.customer-card p {
+  margin: 5px 0 0;
+  font-size: 14px;
+  color: #555;
+}
